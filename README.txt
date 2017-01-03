@@ -1,3 +1,8 @@
+Installation for the vitasdk:
+make -f Makefile.vita.SDL2_ttf install
+
+
+
 
 This library is a wrapper around the excellent FreeType 2.0 library,
 available at:
